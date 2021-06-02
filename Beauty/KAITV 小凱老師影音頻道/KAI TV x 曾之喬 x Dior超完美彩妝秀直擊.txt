@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCiTidnsw54pUeifmxp9W-Eg', 'ChannelName': 'KAITV 小凱老師影音頻道', 'Comments': '0 則留言', 'Desc': '想知道甜美女神＠曾之喬最在意的美妝重點？\n想看到帥氣小凱老師為Dior御用名模打造的超完美霧面妝容？\n想知道今年秋冬最夯的流行美妝知識？\n美妝時尚圈的第一手消息就在---Kai TV', 'DisLikes': '3', 'Duration': '5:30', 'Likes': '24', 'Publish_Date': '2016年12月3日', 'Subscribers': '13.8萬 位訂閱者', 'Title': 'KAI TV x 曾之喬 x Dior超完美彩妝秀直擊', 'Views': '觀看次數：3,384次'}
+ 
+--------------------------------------------------------------------------------
+ 

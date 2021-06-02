@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCve95LeIMcvUNOGaFiAMwWg', 'ChannelName': 'It‘s Jcnana 蒨蒨', 'Comments': '49 則留言', 'Desc': "萬聖節就是要搗蛋！\n\\\\ 記得訂閱我的Youtube頻道 // \n▾It's Jcnana Facebook Page▾ https://www.facebook.com/itsjcnana", 'DisLikes': '23', 'Duration': '5:30', 'Likes': '708', 'Publish_Date': '2015年10月29日', 'Subscribers': '32萬 位訂閱者', 'Title': '萬聖節: 喪屍妝教學 || Zombie Girl Makeup', 'Views': '觀看次數：72,772次'}
+ 
+--------------------------------------------------------------------------------
+ 

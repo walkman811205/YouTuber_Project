@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCiTidnsw54pUeifmxp9W-Eg', 'ChannelName': 'KAITV 小凱老師影音頻道', 'Comments': '15 則留言', 'Desc': '歡迎訂閱 KAI TV 影音頻道：http://ppt.cc/Mfok\n小凱老師粉絲專頁：https://ppt.cc/f6rhsx\n吳依霖老師粉絲專頁 ：https://ppt.cc/fsHApx', 'DisLikes': '18', 'Duration': '1:00:32', 'Likes': '310', 'Publish_Date': '2017年12月24日', 'Subscribers': '13.8萬 位訂閱者', 'Title': '【超級精英美妝技術講座】吳依霖老師大師們後台的超級秘訣（講座完整版）', 'Views': '觀看次數：38,735次'}
+ 
+--------------------------------------------------------------------------------
+ 

@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCiTidnsw54pUeifmxp9W-Eg', 'ChannelName': 'KAITV 小凱老師影音頻道', 'Comments': '54 則留言', 'Desc': '歡迎訂閱 KAI TV 影音頻道\n如果你對妝容有任何疑問請留言給我們\nKAI DELUXE官方臉書粉絲專頁：http://ppt.cc/u~5e\n小凱老師KAI TV：http://ppt.cc/Mfok\n商品購買資訊：http://shop.kdmakeup.com.tw/v2/official', 'DisLikes': '9', 'Duration': '10:25', 'Likes': '433', 'Publish_Date': '2017年8月13日', 'Subscribers': '13.8萬 位訂閱者', 'Title': '【大牌駕到】THE DIVA / 全球大首播 / 快來看到底是哪位大咖！？', 'Views': '觀看次數：11,988次'}
+ 
+--------------------------------------------------------------------------------
+ 

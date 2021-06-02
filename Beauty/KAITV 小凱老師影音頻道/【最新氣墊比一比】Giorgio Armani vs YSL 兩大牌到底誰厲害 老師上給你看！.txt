@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCiTidnsw54pUeifmxp9W-Eg', 'ChannelName': 'KAITV 小凱老師影音頻道', 'Comments': '103 則留言', 'Desc': '歡迎訂閱 KAI TV 影音頻道\n如果你對影片有任何疑問歡迎留言給我們\nKAI DELUXE官方臉書粉絲專頁：http://ppt.cc/u~5e\n小凱老師KAI TV：http://ppt.cc/Mfok', 'DisLikes': '167', 'Duration': '9:24', 'Likes': '1003', 'Publish_Date': '2017年8月28日', 'Subscribers': '13.8萬 位訂閱者', 'Title': '【最新氣墊比一比】Giorgio Armani vs YSL 兩大牌到底誰厲害 老師上給你看！', 'Views': '觀看次數：189,342次'}
+ 
+--------------------------------------------------------------------------------
+ 

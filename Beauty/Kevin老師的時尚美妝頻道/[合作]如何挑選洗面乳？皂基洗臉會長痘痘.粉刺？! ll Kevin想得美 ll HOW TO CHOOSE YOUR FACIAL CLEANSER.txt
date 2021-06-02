@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCaaM3jkNpMTv90vrXxBBOuQ', 'ChannelName': 'Kevin老師的時尚美妝頻道', 'Comments': '只顯示部分資訊', 'Desc': '#洗面乳怎麼挑 #洗面乳會把臉洗爆痘嗎？\n凱文鼠薯用皂基洗臉超過十年，肌膚還是水嘎！\n洗臉界大前輩開講，還不快筆記起來？', 'DisLikes': '50', 'Duration': '13:54', 'Likes': '1222', 'Publish_Date': '首播日期：2021年3月30日', 'Subscribers': '40.4萬 位訂閱者', 'Title': '[合作]如何挑選洗面乳？皂基洗臉會長痘痘.粉刺？! ll Kevin想得美 ll HOW TO CHOOSE YOUR FACIAL CLEANSER', 'Views': '觀看次數：199,930次'}
+ 
+--------------------------------------------------------------------------------
+ 

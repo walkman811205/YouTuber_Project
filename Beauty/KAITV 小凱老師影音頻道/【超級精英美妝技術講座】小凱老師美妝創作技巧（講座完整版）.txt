@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCiTidnsw54pUeifmxp9W-Eg', 'ChannelName': 'KAITV 小凱老師影音頻道', 'Comments': '27 則留言', 'Desc': '歡迎訂閱 KAI TV 影音頻道：http://ppt.cc/Mfok\n小凱老師粉絲專頁：https://ppt.cc/f6rhsx', 'DisLikes': '5', 'Duration': '5:03', 'Likes': '231', 'Publish_Date': '2017年12月17日', 'Subscribers': '13.8萬 位訂閱者', 'Title': '【超級精英美妝技術講座】小凱老師美妝創作技巧（講座完整版）', 'Views': '觀看次數：14,851次'}
+ 
+--------------------------------------------------------------------------------
+ 

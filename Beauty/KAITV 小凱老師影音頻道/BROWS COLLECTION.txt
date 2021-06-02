@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCiTidnsw54pUeifmxp9W-Eg', 'ChannelName': 'KAITV 小凱老師影音頻道', 'Comments': '0 則留言', 'Desc': '', 'DisLikes': '0', 'Duration': '5:30', 'Likes': '8', 'Publish_Date': '2017年6月5日', 'Subscribers': '13.8萬 位訂閱者', 'Title': 'BROWS COLLECTION', 'Views': '觀看次數：3,490次'}
+ 
+--------------------------------------------------------------------------------
+ 
